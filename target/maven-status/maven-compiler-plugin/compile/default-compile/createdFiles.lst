@@ -1,0 +1,6 @@
+it/queryplaground/runners/ClearDataSources.class
+it/queryplayground/jpa/PolyEventBody.class
+it/queryplayground/jpa/Event.class
+it/queryplaground/runners/BatchInsert.class
+it/queryplayground/jpa/PolyEvent.class
+it/queryplayground/jpa/EventPK.class
